@@ -1,6 +1,6 @@
 {
   "name": "leo-platform-arduino",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Leo arduino platform definition.",
   "main": "index.js",
   "scripts": {
@@ -9,10 +9,10 @@
   "author": "Adam Magaluk <AdamMagaluk@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "traverse": "^0.6.6",
-    "handlebars": "^2.0.0-alpha.4"
+    "traverse": "~0.6.6",
+    "handlebars": "~2.0.0-alpha.4"
   },
   "devDependencies": {
-    "tape": "^2.13.1"
+    "tape": "~2.13.1"
   }
 }
