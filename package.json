@@ -12,6 +12,9 @@
     "traverse": "~0.6.6",
     "handlebars": "~2.0.0-alpha.4"
   },
+  "repository": {
+    "url": "git://github.com/AdamMagaluk/leo-platform-arduino.git"
+  }, 
   "devDependencies": {
     "tape": "~2.13.1"
   }
