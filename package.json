@@ -1,6 +1,6 @@
 {
   "name": "leo-platform-arduino",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "Leo arduino platform definition.",
   "main": "index.js",
   "scripts": {
